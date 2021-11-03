@@ -1,0 +1,41 @@
+header {
+    float:right;
+    padding-right: 950px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color:rgb(238, 232, 206);
+}
+.sidebar {
+    float: left;
+    border: 1px solid black;
+    padding-right: 25px;
+    
+    
+}
+
+.about {
+    float: right;
+    padding-left: 470px;
+    padding-top: 50px;
+    font-family: cursive;
+    font-size: 3;
+    
+}
+
+.gallery {
+    float: left;
+    padding-left: 470px;
+}
+
+div.sidebar ul {
+    background-color: azure;
+}
+
+.funfact {
+    font-size: 25px;
+    font-style: italic;
+}
+    
